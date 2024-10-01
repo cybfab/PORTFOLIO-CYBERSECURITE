@@ -5,10 +5,11 @@ les organisations à mieux se protéger contre les menaces numériques croissant
 solide expérience en programmation et en gestion de projets, tout en développant des compétences en **analyse de systèmes** 
 et en **automatisation**. Mon parcours dans le développement m'a donné un excellent aperçu des enjeux de sécurité liés aux applications et aux systèmes. 💻🔐
 
-Pour approfondir mes connaissances, j'ai récemment suivi plusieurs formations en cybersécurité, notamment le 
-**Google Cybersecurity Professional Certificate** 🎓, qui couvre des sujets comme la sécurité des réseaux, la 
-gestion des risques, la détection des incidents, et l'automatisation avec Python. J'ai également obtenu des 
-certifications supplémentaires, telles que le **Cisco Network Basics** et le **Mooc SecNumAcadémie** de l'ANSSI, 
+Pour approfondir mes connaissances, j'ai récemment suivi plusieurs formations en cybersécurité, qui sont les suivantes : 
+
+- (en cours) **Google Cybersecurity Professional Certificate** 🎓, qui couvre des sujets comme la sécurité des réseaux, la 
+gestion des risques, la détection des incidents, et l'automatisation avec Python.
+- J'ai également obtenu des certifications supplémentaires, telles que le **Cisco Network Basics** et le **Mooc SecNumAcadémie** de l'ANSSI, 
 renforçant ainsi mes compétences dans les fondamentaux du réseau et la sécurité des systèmes d'information. 📜🌐
 
 Mon objectif ultime est de devenir **Security Analyst**, un poste dans lequel je peux tirer parti de mes forces 
@@ -29,8 +30,8 @@ Mon portfolio de cybersécurité présente les différents projets et tâches r�
 
 - **Audit de sécurité** 📝 : Utilisation du cadre **NIST Cybersecurity Framework** et des Playbooks de réponse aux incidents.
 - **Sécurité réseau** 🌐 : Conception d’architectures sécurisées et renforcement de la sécurité des réseaux.
-- **Command-line & SQL** 💻 : Maîtrise de l’interface en ligne de commande sous **Linux**, du langage **SQL** pour l’interaction avec les bases de données.
-- **Automatisation avec Python** 🐍 : Développement de scripts pour automatiser des tâches de sécurité répétitives, respectant les bonnes pratiques de **PEP 8**.
+- (en cours)**Command-line & SQL** 💻 : Maîtrise de l’interface en ligne de commande sous **Linux**, du langage **SQL** pour l’interaction avec les bases de données.
+- (en cours)**Automatisation avec Python** 🐍 : Développement de scripts pour automatiser des tâches de sécurité répétitives, respectant les bonnes pratiques de **PEP 8**.
 
 ---
 
