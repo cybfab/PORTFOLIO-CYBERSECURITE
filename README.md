@@ -1,17 +1,14 @@
-# PORTFOLIO-CYBERSECURITE
-# Ma déclaration de plan professionnel
-
-## **Professional Statement**
-
----
+# **Déclaration de plan professionnel**
 
 Je m'appelle Fabrice. Je suis un **développeur web** en transition vers la cybersécurité, avec pour objectif d'aider les organisations à mieux se protéger contre les menaces numériques croissantes. Dans mon rôle actuel, j'ai acquis une solide expérience en programmation et en gestion de projets, tout en développant des compétences en **analyse de systèmes** et en **automatisation**. Mon parcours dans le développement m'a donné un excellent aperçu des enjeux de sécurité liés aux applications et aux systèmes.
 
-Pour approfondir mes connaissances, j'ai récemment commencé la **formation en cybersécurité** **Google Cybersecurity Professional Certificate** qui inclut des domaines comme la sécurité des réseaux, la gestion des risques, la détection des incidents, et l’automatisation avec Python. Mon objectif ultime est de devenir **Security Analyst**, un poste dans lequel je peux tirer parti de mes forces : **résolution de problèmes**, **gestion du stress**, **communication efficace**, et **esprit critique**. Ce rôle correspond également à mes valeurs de **fiabilité**, **transparence**, **éthique** et **honnêteté**.
+Pour approfondir mes connaissances, j'ai récemment suivi plusieurs formations en cybersécurité, notamment le **Google Cybersecurity Professional Certificate**, qui couvre des sujets comme la sécurité des réseaux, la gestion des risques, la détection des incidents, et l'automatisation avec Python. J'ai également obtenu des certifications supplémentaires, telles que le **Cisco Network Basics** et le **Mooc SecNumAcadémie** de l'ANSSI, renforçant ainsi mes compétences dans les fondamentaux du réseau et la sécurité des systèmes d'information.
+
+Mon objectif ultime est de devenir **Security Analyst**, un poste dans lequel je peux tirer parti de mes forces : **résolution de problèmes**, **gestion du stress**, **communication efficace**, et **esprit critique**. Ce rôle correspond également à mes valeurs de **fiabilité**, **transparence**, **éthique** et **honnêteté**.
 
 ---
 
-## Pourquoi la cyber sécurité?
+## **Pourquoi la cybersécurité ?**
 
 La cybersécurité m'attire particulièrement car elle allie mes passions pour la résolution de problèmes et l'analyse des menaces. Ce domaine me permet de rester en constante évolution en apprenant toujours de nouvelles techniques et en restant à jour avec les dernières attaques. J'apprécie également la chance de protéger les organisations contre des menaces complexes, tout en utilisant mes compétences en communication, en gestion du stress, et en analyse. C’est cette diversité et ce défi constant qui rendent la cybersécurité aussi captivante et motivante pour moi.
 
@@ -23,6 +20,7 @@ Mon portfolio de cybersécurité présente les différents projets et tâches r�
 - **Sécurité réseau** : Conception d’architectures sécurisées et renforcement de la sécurité des réseaux.
 - **Command-line & SQL** : Maîtrise de l’interface en ligne de commande sous **Linux**, du langage **SQL** pour l’interaction avec les bases de données.
 - **Automatisation avec Python** : Développement de scripts pour automatiser des tâches de sécurité répétitives, respectant les bonnes pratiques de **PEP 8**.
+
 
 ---
 
