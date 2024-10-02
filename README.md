@@ -54,7 +54,7 @@ Mon portfolio de cybersécurité présente les différents projets et tâches r�
 
 Voici une liste d’outils que j’ai utilisés dans le cadre de mes projets :
 
-- **Linux OS** 🐧
+- **Linux, Ubuntu lts** 🐧
 - **SQL** 🗄️
 - **Python** 🐍
 - **Wireshark** 🌊
