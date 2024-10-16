@@ -29,12 +29,13 @@ Maintenant que vous avez capturé les paquets de données à l’aide d’un out
 
 ### Résumé du problème trouvé dans le journal de trafic DNS et ICMP
 
-Le serveur DNS est hors service en raison du port 53 inaccessible. Le paquet de requête ICMP indique que le paquet n’a pas été acheminé jusqu’au port du serveur DNS avec succès.
-Comme nous le savons, le port 53 est couramment utilisé pour le DNS. Cela étant dit, le problème le plus probable est que le serveur DNS ne répond pas, ce qui peut être causé par une attaque DDoS contre le serveur DNS.
-Le protocole UDP révèle que : le DNS ne répond pas.
-Cela est basé sur les résultats de l’analyse du réseau, qui montrent que la réponse ICMP retournait le message d’erreur : udp port 53 inaccessible.
-Le port mentionné dans le message d’erreur est utilisé pour : Serveur DNS.
-Le problème le plus probable est : Le serveur DNS ne répond pas.
+Le serveur DNS est indisponible en raison de l'inaccessibilité du port 53. Le paquet ICMP indique que la requête n'a pas pu atteindre le port du serveur DNS.
+
+Étant donné que le port 53 est couramment utilisé pour le DNS, il est probable que le problème vienne d'une absence de réponse du serveur DNS, potentiellement causée par une attaque DDoS.
+
+Le protocole UDP confirme que le serveur DNS ne répond pas. L'analyse du réseau montre que la réponse ICMP retournait l'erreur "udp port 53 inaccessible", ce qui signifie que le port 53 du serveur DNS est injoignable.
+
+Le problème probable est que le serveur DNS ne répond pas.
 
 ### Analyse des données et explication d’au moins une cause de l’incident
 
